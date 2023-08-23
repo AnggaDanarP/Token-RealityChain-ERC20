@@ -1,4 +1,4 @@
-import { BoilerplateContract as ContractType } from '../typechain-types/index';
+import { DiamondToken as ContractType } from '../typechain-types/index';
 
 import { ethers } from "hardhat";
 import CollectionConfig from "./../config/CollectionConfig";
