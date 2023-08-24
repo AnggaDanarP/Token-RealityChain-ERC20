@@ -8,7 +8,7 @@ const CollectionConfig: CollectionConfigInterface = {
     contractName: "DiamondToken",
     tokenName: "Testing Diamond Token",
     tokenSymbol: "TDT",
-    contractAddress: "0x52c4B82d4c47CF0eFd304b747c72D0C451db1a7f",
+    contractAddress: "0x22153b50427c76Fec96ADd02Dd03043eC081d150",
     //marketplaceIdentifier: "market-place-identifier",
     //marketplaceConfig: Marketpalce.openSea
 };

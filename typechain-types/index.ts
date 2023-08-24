@@ -14,7 +14,5 @@ export type { IERC20Metadata } from "./@openzeppelin/contracts/token/ERC20/exten
 export { IERC20Metadata__factory } from "./factories/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata__factory";
 export type { IERC20 } from "./@openzeppelin/contracts/token/ERC20/IERC20";
 export { IERC20__factory } from "./factories/@openzeppelin/contracts/token/ERC20/IERC20__factory";
-export type { Diamond } from "./contracts/DiamondToken.sol/Diamond";
-export { Diamond__factory } from "./factories/contracts/DiamondToken.sol/Diamond__factory";
-export type { DiamondToken } from "./contracts/DiamondToken.sol/DiamondToken";
-export { DiamondToken__factory } from "./factories/contracts/DiamondToken.sol/DiamondToken__factory";
+export type { DiamondToken } from "./contracts/DiamondToken";
+export { DiamondToken__factory } from "./factories/contracts/DiamondToken__factory";
